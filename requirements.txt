@@ -1,0 +1,8 @@
+chromadb
+ollama
+numpy
+sounddevice
+pyttsx3
+scipy
+faster-whisper
+pypdf

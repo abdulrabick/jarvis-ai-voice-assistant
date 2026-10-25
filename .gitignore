@@ -1,0 +1,39 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Personal and sensitive configuration
+.env
+memory.json
+my_knowledge.txt
+
+# Recorded audio
+voice.wav
+
+# Local vector databases
+chroma_db/
+chroma_test/
+chroma_ollama_test/
+
+# IDE settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Backup files
+main_backup.py/
+main_backup.py
+
+# Temporary test scripts
+test_chromadb.py
+test_semantic_search.py
+voice_output_test.py
+voice_test.py

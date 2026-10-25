@@ -1,0 +1,15 @@
+Python is a programming language.
+
+A variable is a name used to store a value.
+
+An if statement is used to make decisions based on conditions.
+
+A for loop repeats a block of code for each item in a sequence.
+
+A while loop repeats a block of code as long as a condition is true.
+
+A function is a reusable block of code that performs a particular task.
+
+A list stores multiple items in a single variable.
+
+A dictionary stores information as key-value pairs.
